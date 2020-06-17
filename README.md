@@ -1,5 +1,5 @@
 # Trabajo-de-Mineria-de-Datos
-Luisa de la Hortúa y Antony D'Acunto}
+Luisa de la Hortúa y Antony D'Acunto
 
 Base de datos Bottle fue tomada de: https://calcofi.org/ccdata/database.html
 
